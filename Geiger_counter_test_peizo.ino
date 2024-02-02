@@ -1,3 +1,15 @@
+/*
+Copyright (c) 2023 Apollo Timbers. All rights reserved.
+
+This work is licensed under the terms of the Apache License 2.0.
+For a copy, see https://github.com/apache/.github/blob/main/LICENSE.
+
+Geiger counter project:
+
+The sensor and code are for educational purposes and should not be directly relied upon for determinations regarding one’s health or safety.
+*/
+
+
 #include <Arduino.h>
 
 const int geigerPin = 7;   // Pin connected to the Geiger counter
