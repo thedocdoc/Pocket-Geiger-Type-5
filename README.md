@@ -1,4 +1,7 @@
 # Pocket-Geiger-Type-5
+
+***The sensor and code are for educational purposes and should not be directly relied upon for determinations regarding one’s health or safety.***
+
 A solid state low power Geiger 
 
 A Geiger counter built from a type 5 Pocket Geiger Radiation Sensor from Radiation Watch. The prototype was calibrated by a known Cesium 137 source and was found to be spot on. 
