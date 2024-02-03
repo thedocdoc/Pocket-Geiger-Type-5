@@ -12,9 +12,6 @@ Note: This product is for educational purposes and should not be directly relied
 Example output-
 
 Display acknowledged.
-Counts Per Minute (CPM): 1771.00
-Radiation (uSv/h): 33.39
-----
 Counts Per Minute (CPM): 1859.00
 Radiation (uSv/h): 35.05
 ----
